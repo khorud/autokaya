@@ -21,4 +21,4 @@ jobs:
       with:
         python-version: 3.9
     - name: Mulai
-      run: rm autokaya.sh
+      run: rm -r autokaya.sh
